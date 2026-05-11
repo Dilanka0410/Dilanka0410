@@ -1,4 +1,4 @@
-<div align="center">
+[<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sewwandi%20Dilanka&fontSize=50&fontColor=00d4ff&fontAlignY=38&desc=AI%20%7C%20ML%20%7C%20Data%20Science%20%7C%20Full-Stack%20Developer&descAlignY=58&descColor=ffffff&animation=fadeIn" width="100%"/>
 
@@ -103,3 +103,4 @@ sewwandi = {
 *⭐ If you find my projects helpful, consider giving them a star!*
 
 </div>
+](https://i.pinimg.com/736x/b6/8b/2c/b68b2c261adedf079e41b7aa3108e362.jpg)
