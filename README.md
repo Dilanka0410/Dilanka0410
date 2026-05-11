@@ -88,14 +88,6 @@ My work sits at the intersection of **machine learning**, **data science**, and 
 
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sewwandidilanka&hide_border=true&border_radius=10&background=1a1a2e&stroke=9b4d7e&ring=9b4d7e&fire=c9a0b4&currStreakNum=f0d6e8&sideNums=f0d6e8&currStreakLabel=c9a0b4&sideLabels=c9a0b4&dates=9b4d7e" height="160"/>
-
-</div>
-
----
-
-<div align="center">
 <img src="https://i.pinimg.com/736x/b6/8b/2c/b68b2c261adedf079e41b7aa3108e362.jpg" width="480" style="border-radius: 14px; border: 1px solid #6d2b5e;"/>
 
 <br><br>
