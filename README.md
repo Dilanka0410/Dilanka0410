@@ -125,15 +125,7 @@
 ---
 
 
-## 🎀 Activity Graph
 
-<div align="center">
-
-[![Sewwandi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sewwandidilanka&bg_color=fff0f6&color=e91e8c&line=ff85b3&point=c2185b&area=true&area_color=ffd6e7&hide_border=true)](https://github.com/sewwandidilanka)
-
-</div>
-
----
 
 ## 🌸 Let's Connect & Collaborate!
 
