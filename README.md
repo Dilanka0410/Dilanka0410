@@ -1,155 +1,137 @@
 <div align="center">
 
-<!-- Romantic Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:ffd6e7,30:ffb3d1,60:ff85b3,100:e91e8c&height=220&section=header&text=Sewwandi%20Dilanka&fontSize=55&fontColor=ffffff&fontAlignY=42&desc=✨%20AI%20·%20ML%20·%20Data%20Science%20·%20Full-Stack%20Developer%20✨&descAlignY=62&descColor=fff0f6&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,40:2d1b33,80:4a1942,100:6d2b5e&height=200&section=header&text=Sewwandi%20Dilanka&fontSize=52&fontColor=f0d6e8&fontAlignY=38&desc=AI%20Engineer%20·%20ML%20Researcher%20·%20Full-Stack%20Developer&descAlignY=58&descColor=c9a0b4&animation=fadeIn" width="100%"/>
 
-</div>
-
-<br>
-
-<!-- Aesthetic divider -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 
 <br>
 
 <div align="center">
 
-<!-- Profile Image with aesthetic framing -->
-<img src="https://i.pinimg.com/originals/6d/ce/01/6dce01d6b7309e051f7eb1a6f45ad630.jpg" width="160" style="border-radius: 50%; border: 4px solid #ff85b3;"/>
+<img src="https://i.pinimg.com/originals/6d/ce/01/6dce01d6b7309e051f7eb1a6f45ad630.jpg" width="130" style="border-radius:50%; border: 3px solid #9b4d7e;"/>
 
 <br><br>
 
-### 🌸 Hi there! I'm **Sewwandi Dilanka** 🌸
-
-> *"Turning data into intelligence, one model at a time 🤖💕"*
-
-🎀 A passionate **AI/ML Engineer** & **Full-Stack Developer** from beautiful **Sri Lanka 🇱🇰**  
-🌺 Currently deep-diving into **Machine Learning** & **Data Science**  
-💖 I love where creativity meets code — building things that *think*  
-
-📫 **Say hello →** [sewwandidilanka2104@gmail.com](mailto:sewwandidilanka2104@gmail.com)
-
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=22&pause=1000&color=C9A0B4&center=true&vCenter=true&width=500&lines=Turning+data+into+intelligent+solutions.;Building+ML+models+that+matter.;Where+precision+meets+creativity.)](https://git.io/typing-svg)
 
 <br>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+[![Email](https://img.shields.io/badge/sewwandidilanka2104%40gmail.com-2d1b33?style=flat-square&logo=gmail&logoColor=c9a0b4)](mailto:sewwandidilanka2104@gmail.com)
+[![GitHub](https://img.shields.io/badge/sewwandidilanka-2d1b33?style=flat-square&logo=github&logoColor=c9a0b4)](https://github.com/sewwandidilanka)
+![Location](https://img.shields.io/badge/Sri%20Lanka%20🇱🇰-2d1b33?style=flat-square&logoColor=c9a0b4)
+
 </div>
 
 ---
 
-## 🌷 About Me
+## About Me
 
-<img align="right" src="https://i.pinimg.com/736x/b6/8b/2c/b68b2c261adedf079e41b7aa3108e362.jpg" width="220" style="border-radius: 20px; margin-left: 20px; border: 3px solid #ffb3d1;"/>
+<img align="right" src="https://cdn.pixabay.com/photo/2024/05/20/13/28/ai-generated-8775232_1280.png" width="210" style="border-radius: 12px; margin-left: 24px; opacity: 0.92;"/>
 
-```python
-💕 sewwandi = {
-    "name"      : "Sewwandi Dilanka",
-    "location"  : "Sri Lanka 🇱🇰🌺",
-    "email"     : "sewwandidilanka2104@gmail.com",
+I'm an **AI/ML Engineer** and **Full-Stack Developer** from Sri Lanka, passionate about building intelligent systems that bridge the gap between raw data and real-world impact.
 
-    "focus"     : [
-        "✨ Machine Learning",
-        "📊 Data Science",
-        "🌐 Full-Stack Development"
-    ],
+My work sits at the intersection of **machine learning**, **data science**, and **software engineering** — I enjoy every step, from exploratory data analysis to deploying production-ready models and applications.
 
-    "currently" : "🔬 Building ML & Data Science projects",
+**Currently focused on:**
+- 🔬 Training and evaluating machine learning models on real-world datasets
+- 📊 Extracting meaningful insights through data analysis & visualization
+- 🌐 Building full-stack applications that bring ML to end users
+- 📚 Deepening expertise in deep learning and model optimization
 
-    "open_to"   : [
-        "🤝 Collaborations",
-        "💡 Open-source",
-        "🎯 Internships",
-        "🚀 Full-time roles"
-    ],
-
-    "motto"     : "Data is the new magic 🌸✨"
-}
-```
+**Open to:** Research collaborations · Open-source contributions · Internships · Full-time roles
 
 <br clear="right"/>
 
 ---
 
-## 💻 My Tech Stack
+## Tech Stack
 
 <div align="center">
 
-### 🌸 Languages I Speak
+**Languages**
 
-![Python](https://img.shields.io/badge/Python-FFB3D1?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-FF85B3?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFC0CB?style=for-the-badge&logo=javascript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-E91E8C?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-FFB3D1?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-FF85B3?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-2d1b33?style=for-the-badge&logo=python&logoColor=c9a0b4)
+![Java](https://img.shields.io/badge/Java-2d1b33?style=for-the-badge&logo=openjdk&logoColor=c9a0b4)
+![JavaScript](https://img.shields.io/badge/JavaScript-2d1b33?style=for-the-badge&logo=javascript&logoColor=c9a0b4)
+![PHP](https://img.shields.io/badge/PHP-2d1b33?style=for-the-badge&logo=php&logoColor=c9a0b4)
+![HTML5](https://img.shields.io/badge/HTML5-2d1b33?style=for-the-badge&logo=html5&logoColor=c9a0b4)
+![CSS3](https://img.shields.io/badge/CSS3-2d1b33?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🤖 AI / ML / Data Science Magic ✨
+**AI · ML · Data Science**
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF69B4?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-FFB3D1?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-E91E8C?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-FF85B3?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-FFC0CB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2d1b33?style=for-the-badge&logo=tensorflow&logoColor=c9a0b4)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-2d1b33?style=for-the-badge&logo=scikit-learn&logoColor=c9a0b4)
+![NumPy](https://img.shields.io/badge/NumPy-2d1b33?style=for-the-badge&logo=numpy&logoColor=c9a0b4)
+![Pandas](https://img.shields.io/badge/Pandas-2d1b33?style=for-the-badge&logo=pandas&logoColor=c9a0b4)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-2d1b33?style=for-the-badge&logo=python&logoColor=c9a0b4)
 
-### 🌐 Web Development Wonders
+**Web Development**
 
-![React](https://img.shields.io/badge/React-FFB3D1?style=for-the-badge&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-FF85B3?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-2d1b33?style=for-the-badge&logo=react&logoColor=c9a0b4)
+![Node.js](https://img.shields.io/badge/Node.js-2d1b33?style=for-the-badge&logo=nodedotjs&logoColor=c9a0b4)
 
 </div>
 
 ---
 
-## 🌺 What I'm Creating
+## Current Work
 
-<div align="center">
-
-<img src="https://cdn.pixabay.com/photo/2024/05/20/13/28/ai-generated-8775232_1280.png" width="500" style="border-radius: 20px; border: 3px solid #ffb3d1; margin: 10px 0;"/>
-
-</div>
-
-<br>
-
-| 🌸 Area | 💕 What I'm Up To |
-|:---|:---|
-| 🤖 **Machine Learning** | Building & training real-world ML models that solve meaningful problems |
-| 📊 **Data Science** | Data wrangling, beautiful visualizations & storytelling with Python |
-| 🌐 **Full-Stack Dev** | Crafting web apps with HTML, CSS, JS, PHP & React |
-| 📚 **Always Learning** | Deep Learning, Model Optimization & Data Pipelines |
-| 💡 **Dream Project** | An AI system that makes a positive impact on people's lives 🌺 |
+| Area | Details |
+|:--|:--|
+| 🤖 **ML Engineering** | Designing, training & evaluating models on real-world datasets |
+| 📊 **Data Science** | Analysis pipelines, feature engineering & insight-driven visualization |
+| 🌐 **Full-Stack Dev** | End-to-end web applications integrating ML capabilities |
+| 🧠 **Research Focus** | Deep learning architectures, model optimization, data pipelines |
 
 ---
 
-
-
-
-## 🌸 Let's Connect & Collaborate!
+## GitHub Stats
 
 <div align="center">
 
-*I'm always open to new ideas, collaborations, and opportunities! Don't be shy* 💕
+<img src="https://github-readme-stats.vercel.app/api?username=sewwandidilanka&show_icons=true&hide_border=true&bg_color=1a1a2e&title_color=c9a0b4&icon_color=9b4d7e&text_color=f0d6e8&border_radius=10" height="160"/>
 
-<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sewwandidilanka&layout=compact&hide_border=true&bg_color=1a1a2e&title_color=c9a0b4&text_color=f0d6e8&border_radius=10" height="160"/>
 
-[![Email](https://img.shields.io/badge/Gmail-💌%20Say%20Hello!-FFB3D1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sewwandidilanka2104@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-🌸%20Follow%20Me-FF85B3?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sewwandidilanka)
+</div>
 
-<br>
+<div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=sewwandidilanka&color=ff85b3&style=for-the-badge&label=✨+Profile+Views)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sewwandidilanka&hide_border=true&border_radius=10&background=1a1a2e&stroke=9b4d7e&ring=9b4d7e&fire=c9a0b4&currStreakNum=f0d6e8&sideNums=f0d6e8&currStreakLabel=c9a0b4&sideLabels=c9a0b4&dates=9b4d7e" height="160"/>
 
 </div>
 
 ---
 
 <div align="center">
+<img src="https://i.pinimg.com/736x/b6/8b/2c/b68b2c261adedf079e41b7aa3108e362.jpg" width="480" style="border-radius: 14px; border: 1px solid #6d2b5e;"/>
 
-*🌸 "Code with passion, create with purpose, and always add a little sparkle ✨" 🌸*
+<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:e91e8c,40:ff85b3,70:ffb3d1,100:ffd6e7&height=120&section=footer&text=Thank%20you%20for%20visiting!%20🌺&fontSize=28&fontColor=ffffff&animation=twinkling" width="100%"/>
+*Intelligent systems begin with curious minds.*
+</div>
 
+---
+
+## Let's Connect
+
+<div align="center">
+
+I'm always open to meaningful conversations, collaborations, and new opportunities.
+
+<br>
+
+[![Gmail](https://img.shields.io/badge/Email%20Me-2d1b33?style=for-the-badge&logo=gmail&logoColor=c9a0b4)](mailto:sewwandidilanka2104@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub%20Profile-2d1b33?style=for-the-badge&logo=github&logoColor=c9a0b4)](https://github.com/sewwandidilanka)
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=sewwandidilanka&color=9b4d7e&style=flat-square&label=Profile+Views)
+
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d2b5e,50:4a1942,100:1a1a2e&height=100&section=footer" width="100%"/>
 </div>
