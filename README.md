@@ -124,23 +124,6 @@
 
 ---
 
-## 📈 My GitHub Journey
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sewwandidilanka&show_icons=true&theme=radical&hide_border=true&bg_color=fff0f6&title_color=e91e8c&icon_color=ff85b3&text_color=c2185b&border_radius=15" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sewwandidilanka&layout=compact&theme=radical&hide_border=true&bg_color=fff0f6&title_color=e91e8c&text_color=c2185b&border_radius=15" height="165"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sewwandidilanka&theme=pink-ribbon&hide_border=true&border_radius=15&background=fff0f6&stroke=ffb3d1&ring=e91e8c&fire=ff85b3&currStreakNum=c2185b&sideNums=c2185b&currStreakLabel=e91e8c&sideLabels=e91e8c&dates=ffb3d1" height="165"/>
-
-</div>
-
----
 
 ## 🎀 Activity Graph
 
