@@ -85,15 +85,7 @@ My work sits at the intersection of **machine learning**, **data science**, and 
 
 ---
 
-## GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sewwandidilanka&show_icons=true&hide_border=true&bg_color=1a1a2e&title_color=c9a0b4&icon_color=9b4d7e&text_color=f0d6e8&border_radius=10" height="160"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sewwandidilanka&layout=compact&hide_border=true&bg_color=1a1a2e&title_color=c9a0b4&text_color=f0d6e8&border_radius=10" height="160"/>
-
-</div>
 
 <div align="center">
 
