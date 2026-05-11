@@ -17,7 +17,7 @@
 <br>
 
 [![Email](https://img.shields.io/badge/sewwandidilanka2104%40gmail.com-2d1b33?style=flat-square&logo=gmail&logoColor=c9a0b4)](mailto:sewwandidilanka2104@gmail.com)
-[![GitHub](https://img.shields.io/badge/sewwandidilanka-2d1b33?style=flat-square&logo=github&logoColor=c9a0b4)](https://github.com/sewwandidilanka)
+[![GitHub](https://img.shields.io/badge/Dilanka0410-2d1b33?style=flat-square&logo=github&logoColor=c9a0b4)](https://github.com/Dilanka0410)
 ![Location](https://img.shields.io/badge/Sri%20Lanka%20🇱🇰-2d1b33?style=flat-square&logoColor=c9a0b4)
 
 </div>
